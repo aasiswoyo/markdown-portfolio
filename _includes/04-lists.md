@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Python
+* SQL
+* Analytics
+  1. Google Analytics
+  2. IBM Cognos Analytics
